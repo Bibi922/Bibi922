@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Salut, je suis Bibi922 !
 
-<!--
-**Bibi922/Bibi922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Mes Technologies Préférées
 
-Here are some ideas to get you started:
+#### Langages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Outils
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+### 📫 Contact
+- Discord: `bibi922`
