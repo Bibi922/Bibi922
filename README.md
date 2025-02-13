@@ -1,21 +1,26 @@
-## 👋 Hello, je suis Bibi922 👨💻 !
+# 👋 Salut à tous, je suis Bibi922 !
 
-**IT Support & Tech Enthusiast**  
-Passionné par les solutions techniques et l'automatisation. Je partage ici mes projets et explorations autour des systèmes et du développement.
+**🖥️ Admin Système | 🛠️ IT Passionné | 🚀 Apprenti Développeur**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/erwin-crespo-ab7327213/)
-[![GitHub Profile](https://img.shields.io/badge/-Portfolio-181717?logo=github)](https://github.com/Alk92)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows)](https://img.shields.io)
-[![Linux Terminal](https://img.shields.io/badge/-Linux-FCC624?logo=linux)](https://img.shields.io)
+Passionné d'informatique, je suis actuellement Administrateur Système après avoir été Technicien Support.  
+Je me lance dans le développement et adore apprendre de nouvelles technologies. Toujours curieux, je cherche à me surpasser et évoluer continuellement !  
+
+**💻 OS Préférés** :  
+![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows)
+
+[![LinkedIn](https://img.shields.io/badge/-Discutons_Informatique-0A66C2?logo=linkedin)](https://www.linkedin.com/in/erwin-crespo-ab7327213/)
+[![GitHub](https://img.shields.io/badge/-Explorez_mes_Projets-181717?logo=github)](https://github.com/Bibi922)
 
 ---
 
-### 🚀 Mes Outils du Jour
+### 🛠️ Ma Stack Technique
 
-#### **Administration Système**
-![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D4?logo=microsoft-active-directory)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware)
+#### **Administration**
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware)
+![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D4?logo=microsoft-active-directory)
 
 #### **Développement**
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk)
@@ -24,20 +29,24 @@ Passionné par les solutions techniques et l'automatisation. Je partage ici mes 
 
 ---
 
-### 💻 Projets Récents
+### 🔥 Mes Projets Récents
 
-#### [🔧 Nom du Repository 1](https://github.com/yourrepo)
-> Description courte du projet (ex: "Scripts d'automatisation système")
+#### [📦 Automation-Scripts](https://github.com/Bibi922/Automation-Scripts)
+> Collection de scripts PowerShell/Python pour automatiser des tâches système
 
-#### [⚙️ Nom du Repository 2](https://github.com/yourrepo)
-> Description courte (ex: "Outils de monitoring personnalisés")
+#### [🛡️ Network-Monitor](https://github.com/Bibi922/Network-Monitor)
+> Outil de surveillance réseau avec alertes personnalisées (en développement)
 
-#### [🌐 Nom du Repository 3](https://github.com/yourrepo)
-> Description courte (ex: "Dashboard d'administration réseau")
+#### [📚 Learning-Java](https://github.com/Bibi922/Learning-Java)
+> Mon espace d'apprentissage du Java avec des exemples pratiques
 
 ---
 
-### 🛠️ Environnement de Travail
+### 🎮 Mon Environnement Quotidien
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
+---
+
+**💬 Parlons tech !** Si vous voulez discuter d'automatisation, de scripts ou simplement de l'évolution du métier, [contactez-moi sur LinkedIn](https://www.linkedin.com/in/erwin-crespo-ab7327213/) 😊
