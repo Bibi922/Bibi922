@@ -8,7 +8,6 @@ Je me lance dans le développement et adore apprendre de nouvelles technologies.
 **💻 OS Préférés** :  
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows)
 
 [![LinkedIn](https://img.shields.io/badge/-Discutons_Informatique-0A66C2?logo=linkedin)](https://www.linkedin.com/in/erwin-crespo-ab7327213/)
 [![GitHub](https://img.shields.io/badge/-Explorez_mes_Projets-181717?logo=github)](https://github.com/Bibi922)
